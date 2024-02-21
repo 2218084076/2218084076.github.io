@@ -4,12 +4,12 @@
 
 # Site
 title: Terry's blog 
-subtitle: ''
-description: ''
+subtitle: '全栈开发工程师'
+description: '全栈开发工程师'
 keywords: python,
 author: Terry
 language: zh
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -46,7 +46,7 @@ future: true
 syntax_highlighter: highlight.js
 highlight:
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace: ''
   wrap: true
   hljs: false
