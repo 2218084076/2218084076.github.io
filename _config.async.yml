@@ -1,0 +1,15 @@
+language: zh-Hans
+theme:
+  switch: true
+  default: style-dark
+
+favicon:
+  logo: favicon-32x32.png
+  icon16: favicon-16x16.png
+  icon32: favicon-32x32.png
+  appleTouchIcon: apple-touch-icon.png
+  webmanifest: /site.webmanifest
+  visibilitychange: true
+  hidden: failure.ico
+  showText: (/≧▽≦/) Oh! It's all right again!
+  hideText: (● -- ●) Oh, crash!
