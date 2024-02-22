@@ -1,12 +1,18 @@
 ---
 title: 关于
+description: 关于
 date: 2024-02-21 14:05:04
-tags: "About"
+keywords: "About"
+cover: [https://github.com/2218084076/2218084076.github.io/blob/main/images/fauqyn4qw9xw34gixs94_I_am_a_gay_boy_with_a_strong_body_so_I_wan_189e672c-75f6-4ad6-87a4-db3f4bf2c95a.png]
+sticky: 10
+banner:
+  type: img
+  bgurl: https://github.com/2218084076/2218084076.github.io/blob/main/images/fauqyn4qw9xw34gixs94_I_am_a_gay_boy_with_a_strong_body_so_I_wan_189e672c-75f6-4ad6-87a4-db3f4bf2c95a.png
+  bannerText: Hi my new friend!
+toc: false # 无需显示目录
+single_column: true
+author: Terry
 ---
-
-一个全栈开发工程师，以下是我的一些信息和经历
-
-<!--more-->
 
 ### [技术栈](_posts/technology-stack)
 
