@@ -1,7 +1,16 @@
 ---
 title: 轻量前端开发框架 Docusaurus
 date: 2024-02-21 14:23:35
-tags: ["前端技术栈","轻量前端开发框架"]
+keywords: "前端技术栈"
+cover: [https://cdn.discordapp.com/attachments/1209684927461855256/1210170489281183754/fauqyn4qw9xw34gixs94_Scenes_of_browsing_the_web_home_office_bac_a788c81d-bd1a-4f1f-8f0b-f1aaf6d9c9fa.png?ex=65e99618&is=65d72118&hm=ad8c8b212dfa925325efad7a7061e0c53de19aaf711f0bc84fc90db8531d1ecd&]
+banner:
+  type: img
+  bgurl: https://cdn.discordapp.com/attachments/1209684927461855256/1210170489281183754/fauqyn4qw9xw34gixs94_Scenes_of_browsing_the_web_home_office_bac_a788c81d-bd1a-4f1f-8f0b-f1aaf6d9c9fa.png?ex=65e99618&is=65d72118&hm=ad8c8b212dfa925325efad7a7061e0c53de19aaf711f0bc84fc90db8531d1ecd&
+  bannerText: 轻量前端开发框架 Docusaurus 简介
+toc: true
+single_column: true
+author: Terry
+category: 轻量前端开发框架
 ---
 ## Docusaurus
 
