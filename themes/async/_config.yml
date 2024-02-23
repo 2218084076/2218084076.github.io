@@ -124,15 +124,6 @@ banner:
   comment:
     bannerTitle: 
     bannerText: The magic tree hole
-  # about:
-  #   insert: before
-  #   title: 关于
-  #   introduction: Full stack development engineer 
-  #   blog: # Blog message
-  #   privacy: # Privacy Note
-  #   bannerTitle:
-  #   bannerText: About me
-
 # Sidebar settings
 sidebar:
   typedTextPrefix: I`m
@@ -277,7 +268,7 @@ comment:
 # Theme mode 
 theme: 
   switch: true 
-  default: style-light # style-light style-dark
+  default: style-dark # style-light style-dark
 
 # Service Worker
 sw: false
