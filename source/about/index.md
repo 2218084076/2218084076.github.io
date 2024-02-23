@@ -10,6 +10,7 @@ toc: true
 single_column: true
 author: Terry
 category: About
+layout: post
 ---
 
 - [技术栈（Personal technology stack）](#%E6%8A%80%E6%9C%AF%E6%A0%88personal-technology-stack)

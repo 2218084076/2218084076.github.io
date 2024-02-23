@@ -12,6 +12,8 @@ toc: false
 single_column: true
 author: Terry
 category: v2ray使用手册
+sticky: 2
+katex: true
 ---
 - [v2rayN主界面](#v2rayn%E4%B8%BB%E7%95%8C%E9%9D%A2)
 - [官网下载](#%E5%AE%98%E7%BD%91%E4%B8%8B%E8%BD%BD)

@@ -12,4 +12,5 @@ toc: false
 single_column: true
 author: Terry
 category: {{title}}
+sticky: 10 # 置顶
 ---

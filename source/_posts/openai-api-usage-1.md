@@ -12,6 +12,8 @@ single_column: true
 author: Terry
 category: ["人工智能（AI）"]
 date: 2024-02-23 13:01:34
+katex: true
+sticky: 3
 ---
 - [开启索引（Enabling Retrieval）](#%E5%BC%80%E5%90%AF%E7%B4%A2%E5%BC%95enabling-retrieval)
   - [工作原理](#%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86)
