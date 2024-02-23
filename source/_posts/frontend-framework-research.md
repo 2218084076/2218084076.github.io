@@ -2,23 +2,26 @@
 title: 轻量前端开发框架 Docusaurus
 date: 2024-02-21 14:23:35
 keywords: "前端技术栈"
-cover: [https://cdn.discordapp.com/attachments/1209684927461855256/1210170489281183754/fauqyn4qw9xw34gixs94_Scenes_of_browsing_the_web_home_office_bac_a788c81d-bd1a-4f1f-8f0b-f1aaf6d9c9fa.png?ex=65e99618&is=65d72118&hm=ad8c8b212dfa925325efad7a7061e0c53de19aaf711f0bc84fc90db8531d1ecd&]
+cover: [/img/fauqyn4qw9xw34gixs94_Scenes_of_browsing_the_web_home_office_bac_a788c81d-bd1a-4f1f-8f0b-f1aaf6d9c9fa.png]
 banner:
   type: img
-  bgurl: https://cdn.discordapp.com/attachments/1209684927461855256/1210170489281183754/fauqyn4qw9xw34gixs94_Scenes_of_browsing_the_web_home_office_bac_a788c81d-bd1a-4f1f-8f0b-f1aaf6d9c9fa.png?ex=65e99618&is=65d72118&hm=ad8c8b212dfa925325efad7a7061e0c53de19aaf711f0bc84fc90db8531d1ecd&
+  bgurl: /img/fauqyn4qw9xw34gixs94_Scenes_of_browsing_the_web_home_office_bac_a788c81d-bd1a-4f1f-8f0b-f1aaf6d9c9fa.png
   bannerText: 轻量前端开发框架 Docusaurus 简介
 toc: true
 single_column: true
 author: Terry
 category: 轻量前端开发框架
 ---
+- [Docusaurus](#docusaurus)
+- [特性](#%E7%89%B9%E6%80%A7)
+- [快速开始](#%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B)
+<!--more-->
+
 ## Docusaurus
 
 Docusaurus 是由 Facebook 开源的，它的目标是使技术文档的创建和维护过程更加轻松和愉快。
 
 其释放了 React 的全部潜能，搭建了这一款有着快速客户端导航与交互性极佳的单页应用。它提供了开箱即用的文档功能，不过也可用于搭建各种网站（个人网站、产品、博客、营销主页，等等）。
-
-<!--more-->
 
 [Build optimized websites quickly, focus on your content](https://docusaurus.io/)
 

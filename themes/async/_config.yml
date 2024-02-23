@@ -94,6 +94,7 @@ top_bars:
     url: /
   - title: menu.archives
     url: /archives/
+    noswup: true
 
 # Banner settings
 banner:
@@ -185,7 +186,7 @@ reward:
 
 # Article table of contents
 toc:
-  enable: false
+  enable: true
   list_number: true
   post_title: true
   max_depth: 3
@@ -210,7 +211,7 @@ creative_commons:
 # Customize the cover image
 cover:
   default: /img/block.jpg
-  type: img # img || date || random
+  type: random # img || date || random
 
 # The previous and the next article
 post_pagination: 
@@ -327,12 +328,12 @@ categorie_card:
 # Lower right button
 rightside:
   readmode: true
-  aside: false
+  aside: true
 
 # Replace Broken Images 
 error_img:
   flink: /img/friend_404.gif
-  post_page: /img/404.jpg
+  post_page: /img/friend_404.gif
 
 # Code highlighting configuration
 highlight:

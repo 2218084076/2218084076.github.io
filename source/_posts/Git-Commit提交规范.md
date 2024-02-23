@@ -1,7 +1,16 @@
 ---
 title: Git Commit提交规范
 date: 2024-02-21 14:28:23
-tags:
+keywords: "git commit 规范"
+cover: [/img/0_3.webp]
+banner:
+  type: img
+  bgurl: /img/0_3.webp
+  bannerText: git commit 使用规范
+toc: true
+single_column: true
+author: Terry
+category: git commit 规范
 ---
 - Git是一款卓越的开源分布式版本控制系统，广泛应用于日常开发中，
   - 主要用于有效地管理代码的提交、还原和追踪。
