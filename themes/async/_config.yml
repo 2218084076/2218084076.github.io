@@ -17,8 +17,8 @@ favicon:
   logo: /img/favicon.svg
   icon16: /img/favicon.svg
   icon32: /img/favicon.svg
-  appleTouchIcon: 
-  webmanifest:
+  appleTouchIcon: /img/favicon.svg
+  webmanifest: 
   visibilitychange: false
   hidden: /failure.ico # Displays an icon when not visible
   showText: favicon.showText

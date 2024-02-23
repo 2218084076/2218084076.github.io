@@ -10,6 +10,6 @@ banner:
 toc: false
 single_column: true
 author: Terry
-category: v2ray使用手册
+category: 使用教程
 date: 2024-02-23 13:33:32
 ---

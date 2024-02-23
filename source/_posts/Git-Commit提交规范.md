@@ -10,7 +10,7 @@ banner:
 toc: true
 single_column: true
 author: Terry
-category: git commit 规范
+category: 技术文档
 ---
 - Git是一款卓越的开源分布式版本控制系统，广泛应用于日常开发中，
   - 主要用于有效地管理代码的提交、还原和追踪。

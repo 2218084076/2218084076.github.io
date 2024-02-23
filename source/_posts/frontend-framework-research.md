@@ -10,7 +10,7 @@ banner:
 toc: true
 single_column: true
 author: Terry
-category: 轻量前端开发框架
+category: 技术调研
 ---
 - [Docusaurus](#docusaurus)
 - [特性](#%E7%89%B9%E6%80%A7)

@@ -10,7 +10,7 @@ banner:
 toc: false
 single_column: true
 author: Terry
-category: ["人工智能（AI）"]
+category: ["技术文档"]
 date: 2024-02-23 13:01:34
 katex: true
 sticky: 3

@@ -9,7 +9,6 @@ banner:
 toc: true 
 single_column: true
 author: Terry
-category: About
 layout: post
 ---
 

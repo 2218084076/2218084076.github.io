@@ -11,7 +11,7 @@ banner:
 toc: false 
 single_column: true
 author: Terry
-category: v2ray使用手册
+category: 使用教程
 sticky: 2
 katex: true
 ---
