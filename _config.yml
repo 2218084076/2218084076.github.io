@@ -4,12 +4,11 @@
 
 # Site
 title: Terry's blog
-subtitle: 'sometimes code, sometimes design'
+subtitle: "sometimes code, sometimes design"
 author: Terry
-keywords: [ 'python开发','全栈开发' ]
+keywords: ["python开发", "全栈开发"]
 language: zh
-timezone: 'Asia/Shanghai'
-
+timezone: "Asia/Shanghai"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -23,7 +22,7 @@ permalink_defaults:
 
 # Site settings
 # 网站综合内容设置：
-SEOTitle: Terry 日常
+SEOTitle: Terry's blogs
 email: 17601306065@163.com
 description: "Terry的博客"
 keyword: "Terry,Terry的博客,全栈开发,python"
@@ -61,7 +60,7 @@ titlecase: false # Transform title into titlecase
 external_link:
   enable: true # Open external links in new tab
   field: site # Apply to the whole site
-  exclude: ''
+  exclude: ""
 filename_case: 0
 render_drafts: false
 post_asset_folder: true
@@ -71,20 +70,20 @@ syntax_highlighter: highlight.js
 highlight:
   line_number: true
   auto_detect: true
-  tab_replace: ''
+  tab_replace: ""
   wrap: true
   hljs: false
 prismjs:
   preprocess: true
   line_number: true
-  tab_replace: ''
+  tab_replace: ""
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
-  path: ''
+  path: ""
   per_page: 10
   order_by: -date
 
@@ -104,7 +103,7 @@ meta_generator: true
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 ## updated_option supports 'mtime', 'date', 'empty'
-updated_option: 'mtime'
+updated_option: "mtime"
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -125,5 +124,4 @@ theme: aircloud
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
-
+  type: ""
