@@ -4,6 +4,9 @@ db.json
 *.log
 node_modules/
 public/
+.idea/
 .deploy*/
-_multiconfig.yml
-/.idea/
+unuse/
+readme-private.md
+
+.vscode/

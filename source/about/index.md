@@ -1,25 +1,8 @@
 ---
-title: 关于
-date: 2024-02-21 14:05:04
-cover: [ /img/fauqyn4qw9xw34gixs94_I_am_a_programmer_and_I_want_to_draw_a_bac_ef26b0d6-4771-4853-bbd8-18ce370b5710.webp ]
-banner:
-  type: img
-  bgurl: /img/fauqyn4qw9xw34gixs94_I_am_a_programmer_and_I_want_to_draw_a_bac_ef26b0d6-4771-4853-bbd8-18ce370b5710.webp
-  bannerText: Terry is a full stack development engineer
-toc: true
-single_column: true
-author: Terry
-layout: post
+title: about
+date: 2024-03-26 15:29:42
+layout: "about"
 ---
-
-- [技术栈（Personal technology stack）](#%E6%8A%80%E6%9C%AF%E6%A0%88personal-technology-stack)
-- [开发经验（Development experience）](#%E5%BC%80%E5%8F%91%E7%BB%8F%E9%AA%8Cdevelopment-experience)
-    - [web 服务开发](#web-%E6%9C%8D%E5%8A%A1%E5%BC%80%E5%8F%91)
-    - [数据采集 (爬虫)](#%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86-%E7%88%AC%E8%99%AB)
-    - [前端](#%E5%89%8D%E7%AB%AF)
-    - [工具开发](#%E5%B7%A5%E5%85%B7%E5%BC%80%E5%8F%91)
-
-<!--more-->
 
 ## 技术栈（Personal technology stack）
 
@@ -39,7 +22,12 @@ layout: post
 ### web 服务开发
 
 - 验证码破解服务（fastapi、SQLAlchemy、scikit-learn、asyncio、opencv...）
+- Gpt ChatBot（openai、SQLAlchemy、flask、whisper、vue...）
+
+### aigc
+
 - Gpt ChatBot（openai、SQLAlchemy、flask、whisper...）
+- Call Centre（chatGpt、SQLAlchemy、Fastapi、whisper、Azure（tts）、vue...）
 
 ### 数据采集 (爬虫)
 

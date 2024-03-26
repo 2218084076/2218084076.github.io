@@ -1,23 +1,16 @@
 ---
 title: Git Commit提交规范
 date: 2024-02-21 14:28:23
-keywords: "git commit 规范"
-cover: [/img/0_3.webp]
-banner:
-  type: img
-  bgurl: /img/0_3.webp
-  bannerText: git commit 使用规范
-toc: true
-single_column: true
-author: Terry
-category: 技术文档
+tags:
+  - Git Commit提交规范
 ---
+
 - Git是一款卓越的开源分布式版本控制系统，广泛应用于日常开发中，
-  - 主要用于有效地管理代码的提交、还原和追踪。
-  - 作为团队协作中不可或缺的代码管理工具，其功能和灵活性使其成为开发人员首选的工具之一。
+    - 主要用于有效地管理代码的提交、还原和追踪。
+    - 作为团队协作中不可或缺的代码管理工具，其功能和灵活性使其成为开发人员首选的工具之一。
 - 在我们修改了代码并且提交之前，常会使用git commit -m 'change’命令来描述我们代码改动的内容，
-  - 但是很多都不规范，随处可见的 git commit -m ‘update’，
-  - 以致于不能清晰地知道每次提交代码的变更内容，所以需要一种规范来管理代码提交的内容。
+    - 但是很多都不规范，随处可见的 git commit -m ‘update’，
+    - 以致于不能清晰地知道每次提交代码的变更内容，所以需要一种规范来管理代码提交的内容。
 
 <!--more-->
 
@@ -40,8 +33,8 @@ commit message格式
 
 - feat：新功能（feature）。
 - fix/to：修复bug，可以是QA发现的BUG，也可以是研发自己发现的BUG。
-  - fix：产生diff并自动修复此问题。适合于一次提交直接修复问题
-  - to：只产生diff不自动修复此问题。适合于多次提交。最终修复问题提交时使用fix
+    - fix：产生diff并自动修复此问题。适合于一次提交直接修复问题
+    - to：只产生diff不自动修复此问题。适合于多次提交。最终修复问题提交时使用fix
 
 - docs：文档（documentation）。
 - style：格式（不影响代码运行的变动）。

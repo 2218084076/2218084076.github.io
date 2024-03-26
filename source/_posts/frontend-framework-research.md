@@ -1,21 +1,10 @@
 ---
 title: 轻量前端开发框架 Docusaurus
 date: 2024-02-21 14:23:35
-keywords: "前端技术栈"
-cover: [/img/fauqyn4qw9xw34gixs94_Scenes_of_browsing_the_web_home_office_bac_a788c81d-bd1a-4f1f-8f0b-f1aaf6d9c9fa.png]
-banner:
-  type: img
-  bgurl: /img/fauqyn4qw9xw34gixs94_Scenes_of_browsing_the_web_home_office_bac_a788c81d-bd1a-4f1f-8f0b-f1aaf6d9c9fa.png
-  bannerText: 轻量前端开发框架 Docusaurus 简介
-toc: true
-single_column: true
-author: Terry
-category: 技术调研
+tags: 
+  - 技术调研
+  - 前端开发框架
 ---
-- [Docusaurus](#docusaurus)
-- [特性](#%E7%89%B9%E6%80%A7)
-- [快速开始](#%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B)
-<!--more-->
 
 ## Docusaurus
 

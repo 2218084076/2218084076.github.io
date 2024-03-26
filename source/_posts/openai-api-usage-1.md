@@ -1,29 +1,11 @@
 ---
 title: OpenAI Retrieval-augmented generation (RAG) API
-keywords: OpenAI
-cover:
-  - /img/0_1.webp
-banner:
-  type: img
-  bgurl: /img/0_1.webp
-  bannerText: 本文目的通过一个简单示例来展示如何使用 OpenAI Retrieval-augmented generation (RAG) 功能
-toc: false
-single_column: true
-author: Terry
-category: ["技术文档"]
 date: 2024-02-23 13:01:34
-katex: true
-sticky: 3
+tags:
+  - OpenAI
+  - 技术文档
 ---
-- [开启索引（Enabling Retrieval）](#%E5%BC%80%E5%90%AF%E7%B4%A2%E5%BC%95enabling-retrieval)
-  - [工作原理](#%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86)
-  - [上传文件](#%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6)
-  - [功能定价](#%E5%8A%9F%E8%83%BD%E5%AE%9A%E4%BB%B7)
-  - [删除文件对象](#%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6%E5%AF%B9%E8%B1%A1)
-- [示例代码](#%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81)
 
----
-<!--more-->
 
 本文目的通过一个简单示例来展示如何使用 openai `OpenAI Retrieval-augmented generation (RAG)`功能
 

@@ -3,23 +3,47 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Terry's blog 
-subtitle: '全栈开发工程师'
-description: '全栈开发工程师'
-keywords: python,
+title: Terry's blog
+subtitle: 'sometimes code, sometimes design'
 author: Terry
+keywords: [ 'python开发','全栈开发' ]
 language: zh
 timezone: 'Asia/Shanghai'
 
+
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://2218084076.github.io/
+#url: http://2218084076.github.io/
+url: http://localhost:3780/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
-pretty_urls:
-  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+#pretty_urls:
+#  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
+#  trailing_html: true # Set to false to remove trailing '.html' from permalinks
 
+# Site settings
+# 网站综合内容设置：
+SEOTitle: Terry 日常
+email: 17601306065@163.com
+description: "Terry的博客"
+keyword: "Terry,Terry的博客,全栈开发,python"
+
+# SNS settings
+# 一些社交平台地址，支持以下几种：
+github_username: 2218084076
+twitter_username: Terry56996242
+
+sidebar-avatar: img/avatar.jpg
+
+search:
+  path: search.json
+  field: post
+
+# 文章样式(是否首行缩进)：
+post_style:
+  indent: 0
+################################################################
+################################################################
 # Directory
 source_dir: source
 public_dir: public
@@ -40,7 +64,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
@@ -96,9 +120,10 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: async
+theme: aircloud
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
