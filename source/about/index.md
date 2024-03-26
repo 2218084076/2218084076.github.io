@@ -4,6 +4,8 @@ date: 2024-03-26 15:29:42
 layout: "about"
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2218084076&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 技术栈（Personal technology stack）
 
 | Property                           | data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
