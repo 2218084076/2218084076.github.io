@@ -31,7 +31,7 @@ layout: "about"
 - Gpt ChatBot（openai、SQLAlchemy、flask、whisper...）
 - Call Centre（chatGpt、SQLAlchemy、Fastapi、whisper、Azure（tts）、vue...）
 
-### 数据采集 (爬虫)
+### 数据采集 (分布式爬虫)
 
 - 海关统计数据采集（playwright、mongodb、redis...）
 - 泰国进出口商数据采集（apihttp、mongodb、redis...）
