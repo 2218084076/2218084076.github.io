@@ -14,7 +14,8 @@ tags:
 
 v2rayN官网下载地址：<https://github.com/2dust/v2rayN/releases> 新手使用建议下载稳定版本，即版本号后标记为 `Latest` 的版本。
 
-> ![releases](img/Snipaste_2024-02-23_10-47-28.png)
+![releases](img/Snipaste_2024-02-23_10-47-28.png)
+
 > 其中代理工具还会依赖一些网络插件驱动等，所以建议下载 `zz_v2rayN-With-Core-SelfContained.7z`
 > 它包含了运行 `V2RayN` 所需要的所有代码和资源，并且可以在没有安装任何额外依赖的系统上运行。
 
