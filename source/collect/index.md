@@ -18,7 +18,10 @@ layout: "collect"
 ## 其他
 
 - [**`GFPGAN`** 用于人脸恢复的实用算法](https://github.com/TencentARC/GFPGAN)
+- [**`synclabs`** an app/api for realtime lip-sync](https://synclabs.so/) 
+  - animate people to speak any language in any video. 
+  - brought by the orginal creators of wav2lip
 
-- 解决 `docker run --runtime=nvidia --gpus all` 时显卡驱动适配问题
+- 安装 docker 中对显卡的依赖， `docker run --runtime=nvidia --gpus all`
   
   [Installing the NVIDIA Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html)
