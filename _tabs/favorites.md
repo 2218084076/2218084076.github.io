@@ -15,11 +15,16 @@ order: 2
 
 [**`Docusaurus`** Build optimized websites quickly, focus on your content](https://docusaurus.io/)
 
+## 工具
+
+- [**`HiddifyNext`** 代理工具](https://github.com/hiddify/hiddify-next)
+- [**`Surfboard`**](https://manual.getsurfboard.com/)
+
 ## 其他
 
 - [**`GFPGAN`** 用于人脸恢复的实用算法](https://github.com/TencentARC/GFPGAN)
-- [**`synclabs`** an app/api for realtime lip-sync](https://synclabs.so/) 
-  - animate people to speak any language in any video. 
+- [**`synclabs`** an app/api for realtime lip-sync](https://synclabs.so/)
+  - animate people to speak any language in any video.
   - brought by the orginal creators of wav2lip
 
 - 安装 docker 中对显卡的依赖， `docker run --runtime=nvidia --gpus all`
