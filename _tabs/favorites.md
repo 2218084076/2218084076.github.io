@@ -19,6 +19,10 @@ order: 2
 
 - [**`HiddifyNext`** 代理工具](https://github.com/hiddify/hiddify-next)
 - [**`Surfboard`**](https://manual.getsurfboard.com/)
+- [**`V2ray`**](https://v2rayn.org/)
+  - **v2rayN官网下载地址**
+    - [**Windows - v2rayN**](https://github.com/2dust/v2rayN/releases)
+    - [**Android - v2rayNG**](https://github.com/2dust/v2rayNG/releases)
 
 ## 其他
 
