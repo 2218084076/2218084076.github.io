@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在安卓手机中安装 Chat GPT .... 正在创作中 ..
+title: 在安卓手机中安装 Chat GPT
 date: 2024-03-28 13:46 +0800
 tags:
   - Chat GPT apps
@@ -78,5 +78,3 @@ categories:
 ## **安装 ChatGPT**
 
 ![,](/img/insyall-chatgpt.png)
-
-## .... 正在创作中 ..
