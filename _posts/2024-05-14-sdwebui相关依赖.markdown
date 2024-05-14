@@ -8,36 +8,25 @@ categories:
   - stable diffusion
 ---
 
-<a name="GJk5J"></a>
-
 # 插件
-
-<a name="m1dUb"></a>
 
 ## stable-diffusion-webui-chinese.git
 
 [https://github.com/VinsonLaro/stable-diffusion-webui-chinese.git](https://github.com/VinsonLaro/stable-diffusion-webui-chinese.git)
-<a name="oNlfk"></a>
 
 ## sd-webui-controlnet
 
 [https://github.com/Mikubill/sd-webui-controlnet.git](https://github.com/Mikubill/sd-webui-controlnet.git)
-<a name="UsM2m"></a>
 
 ## stable-diffusion-webui-rembg
 
 [https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg.git](https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg.git)
-<a name="i6Hvq"></a>
 
 ## sd-webui-infinite-image-browsing
 
 [https://github.com/zanllp/sd-webui-infinite-image-browsing.git](https://github.com/zanllp/sd-webui-infinite-image-browsing.git)
 
-<a name="R36YH"></a>
-
 # 环境依赖
-
-<a name="hPnAa"></a>
 
 ## libgoogle-perftools-dev 和 google-perftools
 
@@ -50,63 +39,46 @@ apt update
 apt install libgoogle-perftools-dev google-perftools -y
 ```
 
-<a name="Hq6X4"></a>
-
 # 模型
 
-<a name="tqBtd"></a>
-
 ## Some drawing models of handsome men（😍🧐）
-
-<a name="WWTlT"></a>
 
 ### BoyFusion
 
 - [https://civitai.com/models/20113/boyfusion](https://civitai.com/models/20113/boyfusion)
 - ![image.png](https://cdn.nlark.com/yuque/0/2024/png/35904105/1715653200068-9a2f1203-4cc1-4d57-8b7c-da22c29f7608.png#averageHue=%23617380&clientId=u9ef324ec-8dad-4&from=paste&height=739&id=u17e48261&originHeight=739&originWidth=973&originalType=binary&ratio=1&rotation=0&showTitle=false&size=871085&status=done&style=none&taskId=ua0c4f3ed-ade8-482b-94be-990b5e8deb0&title=&width=973)
-  <a name="Ubhwc"></a>
 
 ### SYAHASIAN- Asian Men
 
 [https://civitai.com/models/99167/syahasian-asian-men](https://civitai.com/models/99167/syahasian-asian-men)
 
 - ![image.png](https://cdn.nlark.com/yuque/0/2024/png/35904105/1715653232348-56d27ffb-699d-4e5c-8468-3ee8eb8c71c4.png#averageHue=%2349575f&clientId=u9ef324ec-8dad-4&from=paste&height=934&id=ua7d5805a&originHeight=934&originWidth=1066&originalType=binary&ratio=1&rotation=0&showTitle=false&size=624381&status=done&style=none&taskId=uddfd0c04-2a74-4a39-840b-4d3a9478b64&title=&width=1066)
-  <a name="GACgs"></a>
 
 ### Noosphere
 
 [https://civitai.com/models/36538/noosphere](https://civitai.com/models/36538/noosphere)
 
 - ![image.png](https://cdn.nlark.com/yuque/0/2024/png/35904105/1715653810147-e39f1a17-ad24-4b6b-bbfc-1f33cdf15cfc.png#averageHue=%231d242a&clientId=u9ef324ec-8dad-4&from=paste&height=880&id=u92bcc0eb&originHeight=880&originWidth=1177&originalType=binary&ratio=1&rotation=0&showTitle=false&size=879331&status=done&style=none&taskId=u70755fe3-2c0b-40dc-8df5-516d19ea0f8&title=&width=1177)
-  <a name="YqH99"></a>
 
 ### 麻袋男性 2.5D BOY 2.5D
 
 - [https://civitai.com/models/188788/25d-boy-25d](https://civitai.com/models/188788/25d-boy-25d)
 - ![image.png](https://cdn.nlark.com/yuque/0/2024/png/35904105/1715653901486-ffca3ce4-7644-4ccf-ac01-a440e6faa3a9.png#averageHue=%2350594f&clientId=u9ef324ec-8dad-4&from=paste&height=782&id=u096b96a7&originHeight=782&originWidth=826&originalType=binary&ratio=1&rotation=0&showTitle=false&size=525798&status=done&style=none&taskId=u4307a8d9-68a4-42e4-bc20-1946b377bfd&title=&width=826)
-  <a name="MnnzZ"></a>
 
 ### 港风帅哥 Hong Kong Style Man
 
 - [https://civitai.com/models/113956/hong-kong-style-man](https://civitai.com/models/113956/hong-kong-style-man)
 - ![image.png](https://cdn.nlark.com/yuque/0/2024/png/35904105/1715653940250-7c216c02-12ac-436a-b287-5e75087c54fc.png#averageHue=%23282f2b&clientId=u9ef324ec-8dad-4&from=paste&height=723&id=u050e7c7e&originHeight=723&originWidth=777&originalType=binary&ratio=1&rotation=0&showTitle=false&size=532020&status=done&style=none&taskId=uaa03bce7-f042-481b-a7d0-d03d1358086&title=&width=777)
-  <a name="Bks6u"></a>
 
 ### Chocolae\_蓝调
 
 - [https://civitai.com/models/107713/chocolae](https://civitai.com/models/107713/chocolae)
 - ![image.png](https://cdn.nlark.com/yuque/0/2024/png/35904105/1715653966851-e4a6d646-6585-4e50-8a51-cce1acf27546.png#averageHue=%23425162&clientId=u9ef324ec-8dad-4&from=paste&height=734&id=uf9ebaa53&originHeight=734&originWidth=824&originalType=binary&ratio=1&rotation=0&showTitle=false&size=546574&status=done&style=none&taskId=u1703a741-7bed-4c59-9596-152885d047f&title=&width=824)
-  <a name="HO5mK"></a>
 
 ### Korean gay man not wonho
 
 [https://civitai.com/models/390018/korean-gay-man-not-wonho](https://civitai.com/models/390018/korean-gay-man-not-wonho)<br />![image.png](https://cdn.nlark.com/yuque/0/2024/png/35904105/1715654000609-07a90031-f1b9-4bb1-80d3-e6396a027fe1.png#averageHue=%233b3b37&clientId=u9ef324ec-8dad-4&from=paste&height=614&id=u7568f2dd&originHeight=614&originWidth=808&originalType=binary&ratio=1&rotation=0&showTitle=false&size=386489&status=done&style=none&taskId=u7b83c0f2-4a53-4039-861c-7a4d6fc51ac&title=&width=808)
 
-<a name="vAMnE"></a>
-
 ### Bachelor's of Stardew Valley for Pony XL v6 (6 LoRA Pack)
 
 [https://civitai.com/models/376167/bachelors-of-stardew-valley-for-pony-xl-v6-6-lora-pack](https://civitai.com/models/376167/bachelors-of-stardew-valley-for-pony-xl-v6-6-lora-pack)<br />![image.png](https://cdn.nlark.com/yuque/0/2024/png/35904105/1715654022530-f359558c-0618-49dd-aa23-b6bb8a8d8246.png#averageHue=%232f434e&clientId=u9ef324ec-8dad-4&from=paste&height=750&id=u9d02f82a&originHeight=750&originWidth=805&originalType=binary&ratio=1&rotation=0&showTitle=false&size=555425&status=done&style=none&taskId=u0a2b278c-f42d-4ea0-b23f-bc025898bb6&title=&width=805)
-<a name="UoWt0"></a>
-
-#
