@@ -43,46 +43,72 @@ apt update
 apt install libgoogle-perftools-dev google-perftools -y
 ```
 
-## 模型
+[//]: # (## 模型)
 
-### Some drawing models of handsome men（😍🧐）
+[//]: # ()
+[//]: # (### Some drawing models of handsome men（😍🧐）)
 
-- BoyFusion
+[//]: # ()
+[//]: # (- BoyFusion)
 
-  - [https://civitai.com/models/20113/boyfusion](https://civitai.com/models/20113/boyfusion)
-  - ![img.png](../img/boyfusion.png)
+[//]: # ()
+[//]: # (  - [https://civitai.com/models/20113/boyfusion]&#40;https://civitai.com/models/20113/boyfusion&#41;)
 
-- SYAHASIAN- Asian Men
+[//]: # (  - ![img.png]&#40;../img/boyfusion.png&#41;)
 
-  - [https://civitai.com/models/99167/syahasian-asian-men](https://civitai.com/models/99167/syahasian-asian-men)
-  - ![img.png](../img/SYAHASIAN-%20Asian%20Men.png)![image.png](https://cdn.nlark.com/yuque/0/2024/png/35904105/1715653232348-56d27ffb-699d-4e5c-8468-3ee8eb8c71c4.png#averageHue=%2349575f&clientId=u9ef324ec-8dad-4&from=paste&height=934&id=ua7d5805a&originHeight=934&originWidth=1066&originalType=binary&ratio=1&rotation=0&showTitle=false&size=624381&status=done&style=none&taskId=uddfd0c04-2a74-4a39-840b-4d3a9478b64&title=&width=1066)
+[//]: # ()
+[//]: # (- SYAHASIAN- Asian Men)
 
-- Noosphere
--
-  - [https://civitai.com/models/36538/noosphere](https://civitai.com/models/36538/noosphere)
-  - ![img.png](../img/Noosphere--.png)
+[//]: # ()
+[//]: # (  - [https://civitai.com/models/99167/syahasian-asian-men]&#40;https://civitai.com/models/99167/syahasian-asian-men&#41;)
 
-- 麻袋男性 2.5D BOY 2.5D
+[//]: # (  - ![img.png]&#40;../img/SYAHASIAN-%20Asian%20Men.png&#41;![image.png]&#40;https://cdn.nlark.com/yuque/0/2024/png/35904105/1715653232348-56d27ffb-699d-4e5c-8468-3ee8eb8c71c4.png#averageHue=%2349575f&clientId=u9ef324ec-8dad-4&from=paste&height=934&id=ua7d5805a&originHeight=934&originWidth=1066&originalType=binary&ratio=1&rotation=0&showTitle=false&size=624381&status=done&style=none&taskId=uddfd0c04-2a74-4a39-840b-4d3a9478b64&title=&width=1066&#41;)
 
-  - [https://civitai.com/models/188788/25d-boy-25d](https://civitai.com/models/188788/25d-boy-25d)
-  - ![img.png](../img/Noosphere.png)
+[//]: # ()
+[//]: # (- Noosphere)
 
-- 港风帅哥 Hong Kong Style Man
+[//]: # (-)
 
-  - [https://civitai.com/models/113956/hong-kong-style-man](https://civitai.com/models/113956/hong-kong-style-man)
-  - ![img.png](../img/Hong%20Kong%20Style%20Man.png)
+[//]: # (  - [https://civitai.com/models/36538/noosphere]&#40;https://civitai.com/models/36538/noosphere&#41;)
 
-- Chocolae\_蓝调
+[//]: # (  - ![img.png]&#40;../img/Noosphere--.png&#41;)
 
-  - [https://civitai.com/models/107713/chocolae](https://civitai.com/models/107713/chocolae)
-  - ![img.png](../img/Chocolae.png)
+[//]: # ()
+[//]: # (- 麻袋男性 2.5D BOY 2.5D)
 
-- Korean gay man not wonho
+[//]: # ()
+[//]: # (  - [https://civitai.com/models/188788/25d-boy-25d]&#40;https://civitai.com/models/188788/25d-boy-25d&#41;)
 
-  - [https://civitai.com/models/390018/korean-gay-man-not-wonho](https://civitai.com/models/390018/korean-gay-man-not-wonho)
-  - ![img.png](../img/Korean%20gay%20man%20not%20wonho.png)
+[//]: # (  - ![img.png]&#40;../img/Noosphere.png&#41;)
 
-- Bachelor's of Stardew Valley for Pony XL v6 (6 LoRA Pack)
+[//]: # ()
+[//]: # (- 港风帅哥 Hong Kong Style Man)
 
-  - [https://civitai.com/models/376167/bachelors-of-stardew-valley-for-pony-xl-v6-6-lora-pack](https://civitai.com/models/376167/bachelors-of-stardew-valley-for-pony-xl-v6-6-lora-pack)
-  - ![img.png](../img/Bachelor.png)
+[//]: # ()
+[//]: # (  - [https://civitai.com/models/113956/hong-kong-style-man]&#40;https://civitai.com/models/113956/hong-kong-style-man&#41;)
+
+[//]: # (  - ![img.png]&#40;../img/Hong%20Kong%20Style%20Man.png&#41;)
+
+[//]: # ()
+[//]: # (- Chocolae\_蓝调)
+
+[//]: # ()
+[//]: # (  - [https://civitai.com/models/107713/chocolae]&#40;https://civitai.com/models/107713/chocolae&#41;)
+
+[//]: # (  - ![img.png]&#40;../img/Chocolae.png&#41;)
+
+[//]: # ()
+[//]: # (- Korean gay man not wonho)
+
+[//]: # ()
+[//]: # (  - [https://civitai.com/models/390018/korean-gay-man-not-wonho]&#40;https://civitai.com/models/390018/korean-gay-man-not-wonho&#41;)
+
+[//]: # (  - ![img.png]&#40;../img/Korean%20gay%20man%20not%20wonho.png&#41;)
+
+[//]: # ()
+[//]: # (- Bachelor's of Stardew Valley for Pony XL v6 &#40;6 LoRA Pack&#41;)
+
+[//]: # ()
+[//]: # (  - [https://civitai.com/models/376167/bachelors-of-stardew-valley-for-pony-xl-v6-6-lora-pack]&#40;https://civitai.com/models/376167/bachelors-of-stardew-valley-for-pony-xl-v6-6-lora-pack&#41;)
+
+[//]: # (  - ![img.png]&#40;../img/Bachelor.png&#41;)
