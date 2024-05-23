@@ -5,9 +5,20 @@ title: OpenAI Retrieval-augmented generation (RAG) API
 tags:
   - OpenAI
   - 技术文档
-categories: 
+categories:
   - OpenAI ChatGPT
 ---
+
+|   版本   |       描述        |     时间     |
+|:------:|:---------------:|:----------:|
+|  v1.0  |    介绍RAG功能使用    | 2023.12.** |
+| v1.0.1 | api 用法更新 补充说明文档 | 2024.05.23 |
+
+> 鉴于 openai 官方 `openai assistants` 功能 api 已更新
+>
+> 以下使用指南仅作参考，
+>
+> [**` File Search `** augments the Assistant with knowledge from outside its model, such as proprietary product information or documents provided by your users.](https://platform.openai.com/docs/assistants/tools)
 
 本文目的通过一个简单示例来展示如何使用 openai `OpenAI Retrieval-augmented generation (RAG)`功能
 
@@ -26,9 +37,9 @@ instructions = """
 You are a customer support chatbot. Use your knowledge base to best respond to customer queries.
 """
 assistant = client.beta.assistants.create(
-    instructions=instructions,
-    model="gpt-4-1106-preview",
-    tools=[{"type": "retrieval"}]
+  instructions=instructions,
+  model="gpt-4-1106-preview",
+  tools=[{"type": "retrieval"}]
 )
 ```
 
@@ -53,18 +64,18 @@ openai 计划引入其他检索策略，使开发人员能够在检索质量和�
 ```python
 # Upload a file with an "assistants" purpose
 file = client.files.create(
-    file=open("knowledge.pdf", "rb"),
-    purpose='assistants'
+  file=open("knowledge.pdf", "rb"),
+  purpose='assistants'
 )
 
 # Add the file to the assistant
 assistant = client.beta.assistants.create(
-    instructions="""You are a customer support chatbot. Use your knowledge base to best 
+  instructions="""You are a customer support chatbot. Use your knowledge base to best
     respond to customer queries.
     """,
-    model="gpt-4-1106-preview",
-    tools=[{"type": "retrieval"}],
-    file_ids=[file.id]
+  model="gpt-4-1106-preview",
+  tools=[{"type": "retrieval"}],
+  file_ids=[file.id]
 )
 ```
 
@@ -77,16 +88,16 @@ assistant = client.beta.assistants.create(
 thread = client.beta.threads.create()
 
 message = client.beta.threads.messages.create(
-    thread_id=thread.id,
-    role="user",
-    content="I can not find in the PDF manual how to turn off this device.",
-    file_ids=[file.id]
+  thread_id=thread.id,
+  role="user",
+  content="I can not find in the PDF manual how to turn off this device.",
+  file_ids=[file.id]
 )
 ```
 
 最大文件大小为512 MB，不超过2,000,000个令牌(在附加文件时自动计算)
 。检索支持多种文件格式，包括。pdf，。md，。docx等等。有关支持的文件扩展名(及其相应的mime类型)
-的更多详细信息，请参见下面的 [Supported files](https://platform.openai.com/docs/assistants/tools/supported-files) 部分。
+的更多详细信息，请参见下面的 [Supported files](https://platform.openai.com/docs/assistants/tools/file-search/supported-files) 部分。
 
 ### 功能定价
 
@@ -102,8 +113,8 @@ message = client.beta.threads.messages.create(
 
 ```python
 file_deletion_status = client.beta.assistants.files.delete(
-    assistant_id=assistant.id,
-    file_id=file.id
+  assistant_id=assistant.id,
+  file_id=file.id
 )
 ```
 
@@ -112,58 +123,58 @@ file_deletion_status = client.beta.assistants.files.delete(
 ```python
 # Create openai client
 client = OpenAI(
-    api_key=settings.API_KEY
+  api_key=settings.API_KEY
 )
 # Upload knowledge base files
 file = client.files.create(
-    file=open(settings.KNOWLEDGE_FILE_PATH, "rb"),
-    purpose='assistants'
+  file=open(settings.KNOWLEDGE_FILE_PATH, "rb"),
+  purpose='assistants'
 )
 # Create assistant
 assistant = client.beta.assistants.create(
-    instructions="""You are a history teacher. Use your knowledge base to best respond to 
+  instructions="""You are a history teacher. Use your knowledge base to best respond to
     student queries.
     """,
-    model="gpt-4-1106-preview",
-    tools=[{"type": "retrieval"}],
-    file_ids=[file.id]
+  model="gpt-4-1106-preview",
+  tools=[{"type": "retrieval"}],
+  file_ids=[file.id]
 )
 # Create session thread
 thread = client.beta.threads.create()
 
 
 def ask_question(client, thread):
-    user_input = input("What is your question? ")
-    message = client.beta.threads.messages.create(
-        thread_id=thread.id,
-        role="user",
-        content=user_input,
-        file_ids=[file.id],
+  user_input = input("What is your question? ")
+  message = client.beta.threads.messages.create(
+    thread_id=thread.id,
+    role="user",
+    content=user_input,
+    file_ids=[file.id],
+  )
+
+  run = client.beta.threads.runs.create(
+    thread_id=thread.id,
+    assistant_id=assistant.id,
+    instructions="The user has a premium account."
+  )
+
+  print(run.status)
+  print("Waiting for the Assistant to respond...")
+  while run.status != "completed":
+    sleep(1)
+    run = client.beta.threads.runs.retrieve(
+      thread_id=thread.id,
+      run_id=run.id
     )
 
-    run = client.beta.threads.runs.create(
-        thread_id=thread.id,
-        assistant_id=assistant.id,
-        instructions="The user has a premium account."
-    )
+  messages = client.beta.threads.messages.list(
+    thread_id=thread.id
+  )
 
-    print(run.status)
-    print("Waiting for the Assistant to respond...")
-    while run.status != "completed":
-        sleep(1)
-        run = client.beta.threads.runs.retrieve(
-            thread_id=thread.id,
-            run_id=run.id
-        )
-
-    messages = client.beta.threads.messages.list(
-        thread_id=thread.id
-    )
-
-    for m in messages:
-        print(m.role + ": " + str(m.content[0].text))
+  for m in messages:
+    print(m.role + ": " + str(m.content[0].text))
 
 
 while True:
-    ask_question(client, thread)
+  ask_question(client, thread)
 ```
