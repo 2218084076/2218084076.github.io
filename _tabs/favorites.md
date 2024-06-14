@@ -42,3 +42,4 @@ order: 2
 - 安装 docker 中对显卡的依赖， `docker run --runtime=nvidia --gpus all`
 
   [Installing the NVIDIA Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html)
+- [LLMs 排行榜 **`thefastest.ai`** ](https://thefastest.ai/)
