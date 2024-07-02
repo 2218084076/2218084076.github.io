@@ -1,7 +1,7 @@
 ---
 layout: post
-title: v2ray 在服务器中搭建订阅代理【文档创作中...】
-date: 2024-06-27 11:11 +0800
+title: v2ray 在服务器中搭建订阅代理
+date: 2024-07-02 11:11 +0800
 tags:
   - 科学上网代理工具使用
 categories:
@@ -26,9 +26,8 @@ categories:
 
 ## 准备
 
-[//]: # (如果你还没有安装 `v2rayA` 或 `v2ray-core`，请参阅 [Ubuntu 安装流程)
-
-[//]: # (]&#40;./2024-07-02-Ubuntu-install-v2ray-docusaurus.markdown&#41; 一节。)
+如果你还没有安装 `v2rayA` 或 `v2ray-core`，请参阅 [Ubuntu 安装流程
+](https://2218084076.github.io/posts/Ubuntu-install-v2ray-docusaurus/) 一节。
 
 ## 开始
 
