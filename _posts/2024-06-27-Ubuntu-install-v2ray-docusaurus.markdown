@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu 中安装 v2rayA
-date: 2024-07-02 11:11 +0800
+date: 2024-06-27 11:11 +0800
 tags:
   - v2ray 使用指南
 categories:

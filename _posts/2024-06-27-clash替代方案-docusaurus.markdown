@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 安卓 clash 因 x509 证书问题无法更新订阅的用户, 使用 Meta 版本来恢复更新使用
+title: Clash Meta 在安装中的使用
 date: 2024-06-27 10:39 +0800
 tags:
   - 科学上网代理工具使用
