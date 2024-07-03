@@ -31,6 +31,12 @@ order: 2
     - [**Windows - v2rayN**](https://github.com/2dust/v2rayN/releases)
     - [**Android - v2rayNG**](https://github.com/2dust/v2rayNG/releases)
 
+## 技术文档
+
+### CSDN
+
+- [ubuntu 安装 cuda 和 cudnn](https://blog.csdn.net/m0_46825740/article/details/121418113)
+
 ## 其他
 
 - [**`GFPGAN`** 用于人脸恢复的实用算法](https://github.com/TencentARC/GFPGAN)
@@ -44,4 +50,3 @@ order: 2
   [Installing the NVIDIA Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html)
 
 - [LLMs 排行榜 **`thefastest.ai`**](https://thefastest.ai/)
-- [ubuntu 安装 cuda 和 cudnn](https://blog.csdn.net/m0_46825740/article/details/121418113)
