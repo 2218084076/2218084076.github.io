@@ -47,5 +47,7 @@ title: 关于
 
 ### 工具开发
 
+> 开源项目
+
 - sdk 开发
-- 数据采集平台（crawlerstack-spiderkeeper）- open source project
+- 数据采集平台-crawlerstack-spiderkeeper（类 Airflow）
