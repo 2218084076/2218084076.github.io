@@ -36,6 +36,16 @@ const FeatureList: FeatureItem[] = [
         toLink: '/docs/category/技术研究'
     },
     {
+        title: '使用指南 | User Guide',
+        Svg: require('@site/static/img/首页_icon_使用指南.svg').default,
+        description: (
+            <>
+                Master every detail, simplify every action.
+            </>
+        ),
+        toLink: '/docs/category/使用指南'
+    },
+    {
         title: '收藏 | Favorites',
         Svg: require('@site/static/img/收藏.svg').default,
         description: (
@@ -67,7 +77,7 @@ function Feature({title, Svg, description, toLink}: FeatureItem) {
 export default function HomepageFeatures(): JSX.Element {
     return (
         <section className={styles.features}>
-            <div className="container">
+            <div className={clsx('container', styles.myContainer)}>
                 <div className={styles.row}>
                     {FeatureList.map((props, idx) => (
                         <Feature key={idx} {...props} />
