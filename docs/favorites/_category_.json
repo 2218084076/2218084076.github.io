@@ -1,0 +1,8 @@
+{
+  "label": "收藏",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "这是一个技术收藏文档，汇集了一些有趣的技术资源和工具。涵盖了从编程工具到前端开发、AI 技术以及实用工具的广泛领域。"
+  }
+}
