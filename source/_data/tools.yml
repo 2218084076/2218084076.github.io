@@ -1,0 +1,35 @@
+- category: ChatBot webui 搭建工具
+
+- name: python-streamlit
+  link: https://streamlit.io/
+  description: 构建和共享数据应用程序的更快方式 Streamlit 在几分钟内将数据脚本转变为可共享的 Web 应用程序。全部采用纯Python。无需前端经验。
+  image: https://streamlit.io/favicon32.ico
+
+- name: python-Gradio
+  link: https://www.gradio.app/
+  description: 通过友好的 Web 界面演示机器学习模型的最快方式，以便任何人都可以在任何地方使用它！
+  image: https://www.gradio.app/_app/immutable/assets/gradio.CHB5adID.svg
+
+- category: stable-diffusion
+
+- name: civitai StableDiffusion 模型网站 C 站
+  link: https://civitai.com/
+  description: 一个专注于 AI 艺术资源分享和发现的平台
+  image: /images/tools/civitai.png
+
+- category: 科学上网代理工具
+
+- name: V2rayN
+  link: https://v2rayn.org/
+  description: Windows下的代理软件，功能强大且支持多种代理协议
+  image: https://v2rayn.org/wp-content/uploads/2022/06/1655215063-favicon-70x70.png
+
+- name: Clash Verge Rev
+  link: https://www.clashverge.dev/
+  description: 基于 Tauri 的 Clash Meta GUI
+  image: https://www.clashverge.dev/assets/logo.png
+
+- name: Netch
+  link: https://github.com/netchx/netch
+  description: A simple proxy client
+  image: https://github.com/NetchX/Netch/raw/main/Netch/Resources/Netch.png?raw=true

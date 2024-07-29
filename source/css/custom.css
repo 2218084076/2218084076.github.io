@@ -1,0 +1,10 @@
+
+.page-template-container .tools-nav-box .tools-nav-list {
+    position: sticky;
+    top: calc(var(--header-height) + var(--component-gap));
+    flex-shrink: 0;
+    box-sizing: border-box;
+    width: max-content;
+    max-height: calc(100vh - calc(var(--header-height) + var(--component-gap)));
+    margin-right: 1.6rem;
+}
