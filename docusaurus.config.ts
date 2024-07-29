@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
     title: "Terry's blog",
     tagline: '全栈开发工程师 ⌨ | 野生摄影师 📷',
-    favicon: 'img/favicon.ico',
+    favicon: 'img/88高科技.png',
 
     // Set the production url of your site here
     url: 'https://2218084076.github.io',
