@@ -24,7 +24,7 @@ tags:
 ## 准备
 
 如果你还没有安装 `v2rayA` 或 `v2ray-core`，请参阅 [Ubuntu 安装流程
-](https://2218084076.github.io/posts/Ubuntu-install-v2ray-docusaurus/) 一节。
+](https://2218084076.github.io/docs/user_guide/2024-06-27-Ubuntu-install-v2ray-docusaurus) 一节。
 
 ## 开始
 

@@ -88,7 +88,7 @@ const config: Config = {
             style: 'dark',
             links: [
                 {
-                    title: 'Docs',
+                    title: '技术文档',
                     items: [
                         {
                             label: 'OpenAI GPT (RAG)',
@@ -97,7 +97,33 @@ const config: Config = {
                     ],
                 },
                 {
-                    title: 'Community',
+                    title: '摄影作品集',
+                    items: [
+                        {
+                            label: '上海·三星堆',
+                            to: '/docs/photography/20240413',
+                        },
+                        {
+                            label: '上海·薯塔·华东电力设计院',
+                            to: '/docs/photography/20240609',
+                        },
+                    ],
+                },
+                {
+                    title: '使用教程',
+                    items: [
+                        {
+                            label: '安卓中安装Clash',
+                            to: '/docs/user_guide/2024-06-27-clash替代方案-docusaurus',
+                        },
+                        {
+                            label: '在 Windows 中使用 v2ray',
+                            to: '/docs/user_guide/2024-03-29-win-v2ray',
+                        },
+                    ],
+                },
+                {
+                    title: '社交',
                     items: [
                         {
                             label: 'GitHub',
@@ -106,15 +132,6 @@ const config: Config = {
                         {
                             label: 'X',
                             href: 'https://x.com/Stuartbb25',
-                        },
-                    ],
-                },
-                {
-                    title: 'More',
-                    items: [
-                        {
-                            label: 'Blog',
-                            to: '/blog',
                         },
                     ],
                 },

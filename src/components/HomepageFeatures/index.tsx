@@ -30,7 +30,7 @@ const FeatureList: FeatureItem[] = [
         Svg: require('@site/static/img/程序员.svg').default,
         description: (
             <>
-                Technology integration, <br/>innovation without bounds.
+                Technology integration, innovation without bounds.
             </>
         ),
         toLink: '/docs/category/技术研究'
@@ -61,7 +61,7 @@ const FeatureList: FeatureItem[] = [
 function Feature({title, Svg, description, toLink}: FeatureItem) {
     return (
         <Link to={toLink} className={styles.homePageLinkCard}>
-            <div className={clsx('col col--4')}>
+            <div className={clsx('col')}>
                 <div className="text--center">
                     <Svg className={styles.featureSvg} role="img"/>
                 </div>
