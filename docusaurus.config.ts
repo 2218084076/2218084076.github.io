@@ -69,11 +69,11 @@ const config: Config = {
                     type: 'docSidebar',
                     sidebarId: 'tutorialSidebar',
                     position: 'left',
-                    label: 'Docs',
+                    label: '文档',
                 },
                 {
                     position: 'left',
-                    label: 'Tags',
+                    label: '分类标签',
                     to: '/docs/tags'
                 },
                 {to: '/blog', label: '关于', position: 'left'},
