@@ -1,6 +1,8 @@
 ---
-title: 工具
+title: 工具收藏
 ---
+
+## 代理工具
 
 ### [`Netch`](https://github.com/netchx/netch)
 

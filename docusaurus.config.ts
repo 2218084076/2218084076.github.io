@@ -34,6 +34,9 @@ const config: Config = {
         [
             'classic',
             {
+                googleTagManager: {
+                    containerId: 'GTM-12345',
+                  },
                 docs: {
                     sidebarPath: './sidebars.ts',
                     // Please change this to your repo.
@@ -100,15 +103,15 @@ const config: Config = {
                     title: '摄影作品集',
                     items: [
                         {
-                            label: '上海 · 三星堆',
+                            label: '上海·三星堆',
                             to: '/docs/photography/20240413',
                         },
                         {
-                            label: '上海·薯塔 · 华东电力设计院',
+                            label: '上海薯塔·华东电力设计院',
                             to: '/docs/photography/20240609',
                         },
                         {
-                            label: '保利大剧院 · 上海 远香湖畔的文化万花筒',
+                            label: '保利大剧院·上海 远香湖畔的文化万花筒',
                             to: '/docs/photography/2022-07-19',
                         },
                     ],

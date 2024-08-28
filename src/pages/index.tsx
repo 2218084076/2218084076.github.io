@@ -35,7 +35,7 @@ export default function Home(): JSX.Element {
             title={`${siteConfig.title}`}
             description="...">
             <HomepageHeader/>
-            <main>
+            <main className={styles.myMain}>
                 <HomepageFeatures/>
             </main>
         </Layout>

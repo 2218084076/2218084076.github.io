@@ -1,27 +1,22 @@
-.features {
-    display: flex;
-    align-items: center;
-    padding: 2rem 0;
-    justify-content: center;
-    width: 100%;
+.featureSvg {
+  height: 180px;
+  width: 180px;
+  margin: 0 0 2% 0;
 }
 
-.featureSvg {
-    height: 200px;
-    width: 200px;
+.features {
+  margin: 2% 0 0 0;
 }
 
 .homePageLinkCard {
-    text-align: center;
-    flex: 1 1 30%;
-    display: flex;
-    justify-content: center;
+  text-align: center;
+  max-width: 25%;
+  flex: 1 1 30%;
 }
 
 .row {
-    display: ruby-text;
-}
-
-.myContainer {
-    width: 100%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
 }

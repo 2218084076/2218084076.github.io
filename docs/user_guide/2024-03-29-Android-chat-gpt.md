@@ -1,7 +1,7 @@
 ---
 title: 在安卓手机中安装 Chat GPT
 tags:
-  - 语义化版本
+  - GPT
 ---
 
 ## **国内安卓手机运行 chatgpt app 失败原因**
