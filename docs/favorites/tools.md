@@ -18,3 +18,5 @@ title: 工具收藏
 
         - [**Windows - v2rayN**](https://github.com/2dust/v2rayN/releases)
         - [**Android - v2rayNG**](https://github.com/2dust/v2rayNG/releases)
+
+### [Clash Verge Rev](https://www.clashverge.dev/)
