@@ -36,7 +36,7 @@ const config: Config = {
             {
                 googleTagManager: {
                     containerId: 'GTM-12345',
-                  },
+                },
                 docs: {
                     sidebarPath: './sidebars.ts',
                     // Please change this to your repo.
@@ -93,6 +93,10 @@ const config: Config = {
                 {
                     title: '技术文档',
                     items: [
+                        {
+                            label: '解决 GitLab CI 使用 Kaniko 构建多镜像时依赖缓存问题',
+                            to: '/docs/technology/202410091532',
+                        },
                         {
                             label: 'OpenAI GPT (RAG)',
                             to: '/docs/technology/2024-03-29-openai-api-usage-1',
