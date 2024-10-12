@@ -69,7 +69,7 @@ social_contact:
     github: https://github.com/2218084076
     x: https://x.com/Stuartbb25
     email: 17601306065@163.com
-    weixin:          # WeChat
+    weixin: img | https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/icon/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241012173327.png
     qq:              # QQ
     weibo:           # WeiBo
     zhihu:           # ZhiHu
@@ -83,10 +83,8 @@ social_contact:
 scroll:
   # Show progress bar in top when page scroll
   progress_bar: true  # Option values: true | false
-
   # Show percent when page scroll
   percent: true       # Option values: true | false
-
   # Hide header in top when page scroll
   hide_header: true    # Option values: true | false
 
@@ -96,7 +94,7 @@ scroll:
 # ---------------------------------------------------------------------------------------
 home:
   # Website announcement in home page
-  announcement: 新增了‼️ 十一 常州游玩的一些摄影作品。不定期更新ing...
+  announcement: 不定期更新ing...
   # Show category in home page post block
   category: true           # Option values: true | false
   # Show tags in home page post block
@@ -150,9 +148,9 @@ post:
 code_block:
   # Toolbar include: "code copy", "code block collapse" and "code language"
   tools:
-    enable: false            # Option values: true | false
+    enable: true            # Option values: true | false
     style: default           # Option values: default | mac
-  highlight_theme: default   # Option values: default | obsidian
+  highlight_theme: obsidian   # Option values: default | obsidian
 
 
 # ---------------------------------------------------------------------------------------
@@ -287,20 +285,20 @@ cdn:
 # Docs: https://keep-docs.xpoet.cn/basis/configuration-guide/pjax.html
 # ---------------------------------------------------------------------------------------
 pjax:
-  enable: false  # Option values: true | false
+  enable: true  # Option values: true | false
 
 
 # ---------------------------------------------------------------------------------------
 # Docs: https://keep-docs.xpoet.cn/basis/configuration-guide/footer.html
 # ---------------------------------------------------------------------------------------
 footer:
-  since: 2020            # The starting year of your website, Can be null
-  word_count: false      # Option values: true | false
+  since: 2024            # The starting year of your website, Can be null
+  word_count: true      # Option values: true | false
 
   site_deploy:
-    enable: false        # Option values: true | false
+    enable: true        # Option values: true | false
     provider: github     # Option values: github | vercel | netlify | cloudflare | gitee | aliyun | tencent_cloud | upyun
-    url:                 # Your deployment provider url, Can be null
+    url: https://2218084076.github.io/                # Your deployment provider url, Can be null
 
   record:
     enable: false        # Option values: true | false
@@ -320,7 +318,7 @@ inject:
   css:
     - /css/custom.css
       # - /css/custom-1.css
-      # - /css/custom-2.css
+    # - /css/custom-2.css
     # - ...
   js:
     - # e.g.
