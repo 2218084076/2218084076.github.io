@@ -1,21 +1,57 @@
+- category: 开发工具
+
+- name: 正则编辑器
+  link: https://regex101.com/r/vi00Pz/1
+  description: 正则编辑器
+  image: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAUVBMVEUxY58AAAAuXpcJEyAsXJUoVIgiRXEYMVASJj4xYp8zZqT////g6PJpj732+fxYg7XF1OZ/n8Y9bqnN2unt8viMqcxHda2ov9m1x96guNSWsdAKLr1lAAAACnRSTlP3ANQaxq+NVUDloFIaTwAAAlVJREFUeNrt291uszAMBmBG6Q9OSAglBLj/C/2+SoA9pdrR8KtteQ/bSDzr4jqldfWx5XFr2kopbXN77NfdAPealFPfBeByJUCulx1wqQmS+iWoINdnwQtwJViuL8CdgLn/B9QETP1RPQiaR3UjaG5VTdA0VUXQtGhAVQAFUAAFUAAFUAA/BmDd24yjtf28Bj8Q5xyA+Tquj544qgA2dMTRBHAsEzAA49KAAXCeExhg7HQuYAkycU29dZ8F/bmAjrIMXRqlYNEDsCFYBjivCGDC6vifoAngBMcvAQRAq9mTMABeZEGAYPZ4DGA4dkHAAOi5r1pBgLSvmjEAroMeBIhoQDB//RVY0Jtw3lclDIBXRQzAG16FAPAWcAMEMLnjaEwQwGz2RAiAzyNuQgAWeSzWB/jeHBkndUA3O8MJpAkYfEjWyCQ6FWCfItaOznBkG4B9OJ0JCnArbfmTd0jGOBARDGADX14fMK6eOOeWYS/i3r/56b0RxXfVpwnghx0/rgroTH4GUQVQn7cgXYB3x+7kKtQEUMqOIcqAacxuTekCKGZ35xQB/BQ/pw/oTLYPdQHUZ58HlAE+awnKAEpZS1AGTKNsCQAARdkSEIDBipYAAMhSHAcEQJbiggFwKToPAVCCfWvGpchLEACKoiUgALIUIwQgS3FCAGQpzhCALMUOAZCl+IQAZCkGCICiaAkIgCzF5ZsBfs/Xf9nkj9Av+yXVlgIogAIogAIogN8IaAmatmoImgY/7AYf94MPPOJHPuFDr/ixX/jgM370GzL83mzD7/Dx/39upnniwCoDIwAAAABJRU5ErkJggg==
+
+- name: 工具资源站
+  link: https://crackedresource.com/category/adobe/
+  description: Adobe、Offic工具下载
+  image: https://crackedresource.com/wp-content/uploads/2023/07/cropped-%E5%BF%AB%E5%85%8B%E8%B3%87%E6%BA%90%E7%B6%B2LOGO-500-%C3%97-138-%E5%83%8F%E7%B4%A0-150x41.png
+
+- category: AIGC 工具
+
+- name: GFPGAN
+  link: https://github.com/TencentARC/GFPGAN
+  description: 用于人脸恢复的实用算法
+  image: https://github.com/TencentARC/GFPGAN/raw/master/assets/gfpgan_logo.png
+
+- name: synclabs
+  link: https://synclabs.so/
+  description: 自然准确同步嘴唇
+  image: https://mintlify.s3-us-west-1.amazonaws.com/syncso/logo/light.svg
+
+- name: thefastest.ai
+  link: https://thefastest.ai/
+  description: LLMs 排行榜
+  image: /images/posts/Snipaste_2024-10-13_00-09-40.png
+
+- category: CSDN 文档
+
+- name: 安装cuda
+  link: https://blog.csdn.net/m0_46825740/article/details/121418113
+  description: ubuntu安装cuda和cudnn
+  image: https://survey-images.hotjar.com/surveys/logo/2375cc86db5c477e84d5dcc0fc0001cc
+
 - category: ChatBot webui 搭建工具
 
-- name: python-streamlit
+- name: streamlit
   link: https://streamlit.io/
-  description: 构建和共享数据应用程序的更快方式 Streamlit 在几分钟内将数据脚本转变为可共享的 Web 应用程序。全部采用纯Python。无需前端经验。
+  description: 纯py无需前端经验构建 Web 应用程序
   image: https://streamlit.io/favicon32.ico
 
-- name: python-Gradio
+- name: Gradio
   link: https://www.gradio.app/
-  description: 通过友好的 Web 界面演示机器学习模型的最快方式，以便任何人都可以在任何地方使用它！
+  description: 纯py无需前端经验构建 Web 应用程序
   image: https://www.gradio.app/_app/immutable/assets/gradio.CHB5adID.svg
 
 - category: stable-diffusion
 
-- name: civitai StableDiffusion 模型网站 C 站
+- name: civitai C 站
   link: https://civitai.com/
-  description: 一个专注于 AI 艺术资源分享和发现的平台
-  image: /images/tools/civitai.png
+  description: AI 艺术资源
+  image: https://cdn.analyticsvidhya.com/wp-content/uploads/2024/09/civit-AI-webp-2048x1151.webp
 
 - category: 科学上网代理工具
 

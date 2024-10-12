@@ -5,7 +5,6 @@ aging_days: 100
 author: Terry
 copyright_info: true
 avatar: /images/logo_transparent.png
-sticky: 1
 home_cover_height: 120
 date: 2024-10-12 14:46:07
 tags: [ 前端 ]

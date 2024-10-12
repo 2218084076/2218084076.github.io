@@ -20,6 +20,7 @@ base_info:
   logo: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/icon/logo_transparent.png
   # Website favicon, You can use local image path or image link
   favicon: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/icon/logo_transparent.png
+  mode: light  # Option values: light | dark
 
 
 # ---------------------------------------------------------------------------------------
@@ -51,7 +52,7 @@ first_screen:
   background_img_dark: /images/bg.svg
   # First screen description
   # You can use the "||" to begin a newline, maximum is two lines.
-  description: “用技术和视觉语言，捕捉并创造世界中的美好，分享与共创是我的信念。” || “在每一帧和每一行中，探索世界的无限可能。” || “用双手创造，用心灵记录，连接世界的每一种精彩。”
+  description: 用技术和视觉语言，捕捉并创造世界中的美好，分享与共创是我的信念。|| 👇 👇 👇 👇
   # If enable hitokoto, first screen description is different every time when you enter the website
   hitokoto: false      # Option values: true | false
 
@@ -317,7 +318,7 @@ inject:
   enable: true  # Option values: true | false
   css:
     - /css/custom.css
-      # - /css/custom-1.css
+    # - /css/custom-1.css
     # - /css/custom-2.css
     # - ...
   js:
