@@ -7,7 +7,7 @@ author: Terry
 copyright_info: true
 avatar: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/icon/logo.svg
 home_cover_height: 120
-date: 2024-10-12 14:55:23
+date: 2024-10-12 01:55:23
 category: "stable diffusion"
 home_cover:
 ---

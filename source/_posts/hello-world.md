@@ -5,6 +5,7 @@ aging_days: 30
 author: Hexo
 avatar: https://hexo.io/logo.svg
 code_block_shrink: false
+date: 2024-10-07 12:47:42
 #home_cover: /images/home-cover-img.png
 #home_cover_height: 120
 ---
