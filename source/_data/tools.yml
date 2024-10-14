@@ -12,6 +12,11 @@
 
 - category: AIGC 工具
 
+- name: 豆包
+  link: https://www.doubao.com/chat/
+  description: 字节跳动旗下 AI 助手
+  image: /images/posts/doubao.png
+
 - name: GFPGAN
   link: https://github.com/TencentARC/GFPGAN
   description: 用于人脸恢复的实用算法

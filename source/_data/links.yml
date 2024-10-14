@@ -5,8 +5,6 @@
   description: 在使用 gitlab ci 同时构建多个镜像的时候，由于 Kaniko 默认会使用缓存。
   avatar: /images/posts/img.png
 
-
-
 - title: 技术文档
 
 - name: 如何使用 GitHub Actions 自动部署 Hexo 博客
