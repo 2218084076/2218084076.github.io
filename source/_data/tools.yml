@@ -27,13 +27,6 @@
   description: LLMs 排行榜
   image: /images/posts/Snipaste_2024-10-13_00-09-40.png
 
-- category: CSDN 文档
-
-- name: 安装cuda
-  link: https://blog.csdn.net/m0_46825740/article/details/121418113
-  description: ubuntu安装cuda和cudnn
-  image: https://survey-images.hotjar.com/surveys/logo/2375cc86db5c477e84d5dcc0fc0001cc
-
 - category: ChatBot webui 搭建工具
 
 - name: streamlit
@@ -69,3 +62,15 @@
   link: https://github.com/netchx/netch
   description: A simple proxy client
   image: https://github.com/NetchX/Netch/raw/main/Netch/Resources/Netch.png?raw=true
+
+- category: 订阅代理供应商
+
+- name: SudaCloud
+  link: https://v2.suda.moe/auth/register?code=6aRW
+  description: 一个很稳定的VPN供应商受到留学生群起欢迎
+  image: /images/posts/suda.ico
+
+- name: mefly
+  link: https://my.mefly.net/aff.php?aff=120
+  description: 稳定、只可单一节点购买
+  image: /images/posts/mefly.ico

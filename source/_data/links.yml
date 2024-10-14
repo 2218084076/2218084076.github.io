@@ -7,11 +7,14 @@
 
 
 
-- title: 使用指南
+- title: 技术文档
 
 - name: 如何使用 GitHub Actions 自动部署 Hexo 博客
   link: https://juejin.cn/post/6943895271751286821
   description: 我们搭建个人博客的初衷，不就是为了能好好地写文章吗？一切重复且枯燥的工作都应该交给程序去自动完成，尤其是静态博客编译和部署，我们只需要专注文字。
   avatar: /images/posts/Snipaste_2024-10-12_14-39-32.png
 
-
+- name: ubuntu cuda
+  link: https://blog.csdn.net/m0_46825740/article/details/121418113
+  description: ubuntu安装cuda和cudnn
+  avatar: /images/posts/ubuntucuda.png
