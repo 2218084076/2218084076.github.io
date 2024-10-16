@@ -1,21 +1,20 @@
 ---
 title: clash 安卓中使用教程
-tags: [ 'VPN','安卓' ]
+tags: [ '代理工具','安卓' ]
 aging: true
 aging_days: 100
 author: Terry
 copyright_info: true
 avatar: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/icon/logo.svg
-sticky: 999
 home_cover_height: 120
 date: 2024-10-14 19:16:21
-category: 工具
-home_cover: /images/posts/clash-logo.png
+category: 代理工具
+home_cover: /images/posts/clash-a.jpg
 ---
 
 Clash for Android
 
-> 东半球第二好用的安卓翻墙工具。
+> 东半球第二好用的安卓代理工具。
 
 ## 简介
 
@@ -52,40 +51,37 @@ Clash for Android
 >
 > 本文只介绍通过 `URL（订阅）`
 
-### 复制 Clash 订阅链接，复制好 Clash 订阅之后打开  Clash Meta for Android 应用程序。请点击配置。
+### 添加配置
 
-| ![clash step1](https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/posts/clash-1.png) |
-|:--------------------------------------------------------------------------------------------------:|
+- **复制 Clash 订阅链接，复制好 Clash 订阅之后打开 Clash Meta for Android 应用程序。请点击配置。**
 
-### 请在配置窗口中点击 `➕` 加号新配置。
+![clash step1](https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/posts/clash-1.png#pic_right)
 
-| ![clash step2](https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/posts/clash-2.png) |
-|:--------------------------------------------------------------------------------------------------:|
+- **请在配置窗口中点击`+`加号新配置。**
 
-### 选择使用 URL 导入订阅
+![clash step2](https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/posts/clash-2.png)
 
-| ![clash step3](https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/posts/clash-3.png) |
-|:--------------------------------------------------------------------------------------------------:|
+- **选择使用 URL 导入订阅**
 
-### 填写订阅链接并保存
+![clash step3](https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/posts/clash-3.png)
 
-| ![](https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/posts/clash-4.png) |
-|:---------------------------------------------------------------------------------------:|
+- **填写订阅链接并保存**
+
+![](https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/posts/clash-4.png)
 
 ### 回到首页，开启代理
 
-| ![](https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/posts/clash-5.png) |
-|:---------------------------------------------------------------------------------------:|
+![](https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/posts/clash-5.png)
 
-### 查看节点列表
+### 查看、测试节点延迟
 
-| ![](https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/posts/clash-6.png) |
-|:---------------------------------------------------------------------------------------:|
+- 查看节点列表
 
-### 一键测试节点延迟
+![](https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/posts/clash-6.png)
 
-| ![](https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/posts/clash-7.png) |
-|:---------------------------------------------------------------------------------------:|
+- 一键测试节点延迟
+
+![](https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/posts/clash-7.png)
 
 ## 注
 

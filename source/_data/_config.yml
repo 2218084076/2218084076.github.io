@@ -133,7 +133,7 @@ post:
   copyright_info: false  # Option values: true | false
 
   # Post share
-  share: true           # Option values: true | false
+  share: false           # Option values: true | false
 
   # Reward author
   reward:
