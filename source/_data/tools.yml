@@ -68,7 +68,12 @@
   description: A simple proxy client
   image: https://github.com/NetchX/Netch/raw/main/Netch/Resources/Netch.png?raw=true
 
-- category: 订阅代理供应商
+- category: 稳定机场VPN推荐
+
+- name: 狗狗加速
+  link: https://down.dginv.click/#/register?code=8ZWBuvSr
+  description:
+  image: /images/posts/gougou.png
 
 - name: SudaCloud
   link: https://v2.suda.moe/auth/register?code=6aRW
