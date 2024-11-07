@@ -1,5 +1,5 @@
 ---
-title: pip 设置代理
+title: pip 设置代理 正在创作中...
 tags: [ 'python','pip' ]
 aging: true
 aging_days: 100
@@ -12,3 +12,8 @@ category: 'python'
 home_cover: /images/posts/pip-proxy.png
 ---
 
+```bash
+pip --proxy=http://username:password@proxyURL:portNumber install sunburnt
+```
+
+> 正在创作中...
