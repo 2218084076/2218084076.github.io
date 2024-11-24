@@ -52,7 +52,7 @@ first_screen:
   background_img_dark: /images/bg.svg
   # First screen description
   # You can use the "||" to begin a newline, maximum is two lines.
-  description: 用技术和视觉语言，捕捉并创造世界中的美好，分享与共创是我的信念。|| 👇 👇 下滑精彩 👇 👇
+  description: 用技术和视觉语言，捕捉创造世界的美好，分享共创是我的信念。|| 👇 👇 下滑精彩 👇 👇
   # If enable hitokoto, first screen description is different every time when you enter the website
   hitokoto: false      # Option values: true | false
 
