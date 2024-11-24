@@ -12,6 +12,11 @@
 
 - category: AIGC 工具
 
+- name: Kimi
+  link: https://kimi.moonshot.cn/
+  description: Kimi月之暗面科技推出的一款智能助手
+  image: https://statics.moonshot.cn/kimi-chat/favicon.ico
+
 - name: 豆包
   link: https://www.doubao.com/chat/
   description: 字节跳动旗下 AI 助手
