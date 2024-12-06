@@ -5,6 +5,11 @@
   description: 在使用 gitlab ci 同时构建多个镜像的时候，由于 Kaniko 默认会使用缓存。
   avatar: /images/posts/img.png
 
+- name: 解决微服务间使用 alembic 出现版本冲突导致数据冲突问题
+  link: /2024/12/06/MicroservicesAlembicConflictResolution/
+  description: 在不同服务中，需要依赖不同的 `models` 来迁移数据库，此时出现会出现较为常见的异常
+  avatar: /images/posts/MicroservicesAlembicConflictResolution.jpg
+
 - title: python
 
 - name: pip 使用国内镜像源
