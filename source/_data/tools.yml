@@ -12,6 +12,16 @@
 
 - category: AIGC 工具
 
+- name: ChatGPT
+  link: https://chatgpt.com/
+  description: OpenAI ChatGPT
+  image: https://terry-photography-1308467839.cos.accelerate.myqcloud.com/icon/chatgpt.ico
+
+- name: Gemini
+  link: https://gemini.google.com/app
+  description: Gemini 是 Google AI 黑科技可帮助你处理写作、规划、学习等事务
+  image: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/icon/gemini.png
+
 - name: Kimi
   link: https://kimi.moonshot.cn/
   description: Kimi月之暗面科技推出的一款智能助手
