@@ -6,7 +6,7 @@ aging_days: 100
 author: Terry
 copyright_info: true
 avatar: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/icon/logo.svg
-sticky: 999
+sticky: 991
 home_cover_height: 120
 date: 2024-12-06 19:41:16
 category: 后端开发
