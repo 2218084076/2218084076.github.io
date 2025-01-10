@@ -47,7 +47,7 @@
   description: LLMs 排行榜
   image: /images/posts/Snipaste_2024-10-13_00-09-40.png
 
-- category: ChatBot webui 搭建工具
+- category: WebUI 搭建工具
 
 - name: streamlit
   link: https://streamlit.io/
@@ -57,7 +57,7 @@
 - name: Gradio
   link: https://www.gradio.app/
   description: 纯py无需前端经验构建 Web 应用程序
-  image: https://www.gradio.app/_app/immutable/assets/gradio.CHB5adID.svg
+  image: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/icon/gradio.jpg
 
 - category: stable-diffusion
 
