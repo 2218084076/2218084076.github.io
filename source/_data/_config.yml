@@ -15,11 +15,11 @@ base_info:
   # Blog website author name
   author: Terry
   # Author avatar, You can use local image path or image link
-  avatar: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/icon/logo_transparent.png
+  avatar: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/icon/developer_board_24dp_E8EAED.svg
   # Website LOGO, You can use local image path or image link
-  logo: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/icon/logo_transparent.png
+  logo: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/icon/developer_board_24dp_E8EAED.svg
   # Website favicon, You can use local image path or image link
-  favicon: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/icon/logo_transparent.png
+  favicon: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/icon/developer_board_24dp_E8EAED.svg
 #  mode: light  # Option values: light | dark
 
 

@@ -92,15 +92,20 @@
 
 - name: cokecloud
   link: https://cokecloud.cyou/#/register?code=rVw0q35Q
-  description: 历经5年研发，保护您的数据安全，加速国外社交软件以及流媒体
+  description: 5年研发 保护您的数据安全，加速国外社交软件以及流媒体
   image: https://file.buyzur.com/emoji/88888.png
 
 - name: SudaCloud
   link: https://v2.suda.moe/auth/register?code=6aRW
-  description: 一个很稳定的VPN供应商受到留学生群起欢迎
+  description: 很稳定、留学生群体推荐
   image: /images/posts/suda.ico
 
 - name: mefly
-  link: https://my.mefly.net/aff.php?aff=120
-  description: 稳定、只可单一节点购买
+  link: https://mefly.net/aff.php?aff=120
+  description: 稳定、可单一节点购买
   image: /images/posts/mefly.ico
+
+- name: 狗狗加速
+  link: https://go.dginv.click/#/register?code=G97TXvea
+  description: 技术流机场 Doggygo VPN
+  image: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/icon/gogofavicon-32x32.png
