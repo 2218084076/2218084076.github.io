@@ -9,6 +9,12 @@
   link: /2024/12/06/MicroservicesAlembicConflictResolution/
   description: 在不同服务中，需要依赖不同的 `models` 来迁移数据库，此时出现会出现较为常见的异常
   avatar: /images/posts/MicroservicesAlembicConflictResolution.jpg
+- title: 书架
+
+- name: 演进式架构
+  link: https://book.douban.com/subject/34793521/
+  description: 本书由IT行业领导企业ThoughtWorks的CTO和架构专家联合执笔，详尽介绍了演进式架构的必要性以及如何在具体的软件开发流程中实现演进式架构。
+  avatar: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/books/s33457073.jpg
 
 - title: python
 
