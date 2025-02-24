@@ -1,5 +1,10 @@
 - category: 开发工具
 
+- name: GitHub Proxy
+  link: https://ghfast.top/
+  description: GitHub 文件代理加速下载服务.
+  image: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/posts/2025-02-24_18-27-27Snipaste.png
+
 - name: 正则编辑器
   link: https://regex101.com/r/vi00Pz/1
   description: 正则编辑器
@@ -10,7 +15,12 @@
   description: Adobe、Offic工具下载
   image: https://crackedresource.com/wp-content/uploads/2023/07/cropped-%E5%BF%AB%E5%85%8B%E8%B3%87%E6%BA%90%E7%B6%B2LOGO-500-%C3%97-138-%E5%83%8F%E7%B4%A0-150x41.png
 
-- category: AIGC 工具
+- category: AI 工具
+
+- name: Grok
+  link: https://x.com/i/grok
+  description: Grok 是 xAI 基于大型语言模型开发的生成式人工智能聊天机器人
+  image: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/posts/icon-ios.77d25eba.png
 
 - name: ChatGPT
   link: https://chatgpt.com/
