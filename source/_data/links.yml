@@ -52,6 +52,11 @@
 
 - title: Windows 使用技巧
 
+- name: Windows 如何开启 IIS 服务以及如何打开 IIS管理器
+  link: https://blog.csdn.net/weixin_41962350/article/details/111572913
+  description: 开启 Internet Information Server, 互联网信息服务
+  avatar: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/posts/iis.jpg
+
 - name: win11 右上角关闭按钮过大解决方法
   link: https://www.cnblogs.com/stehsaer/p/17706604.html
   description: 通过修改注册表配置实现 Windows 系统样式
