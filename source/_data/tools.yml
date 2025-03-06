@@ -19,7 +19,7 @@
 
 - name: Grok
   link: https://x.com/i/grok
-  description: Grok 是 xAI 基于大型语言模型开发的生成式人工智能聊天机器人
+  description: Grok 是 x(推特)AI 大型语言模型
   image: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/posts/icon-ios.77d25eba.png
 
 - name: ChatGPT
@@ -29,22 +29,22 @@
 
 - name: Gemini
   link: https://gemini.google.com/app
-  description: Gemini 是 Google AI 黑科技可帮助你处理写作、规划、学习等事务
+  description: Google AI
   image: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/icon/gemini.png
 
 - name: Kimi
   link: https://kimi.moonshot.cn/
-  description: Kimi月之暗面科技推出的一款智能助手
+  description: 月之暗面科技的一款智能助手
   image: https://statics.moonshot.cn/kimi-chat/favicon.ico
 
-- name: 豆包
-  link: https://www.doubao.com/chat/
-  description: 字节跳动旗下 AI 助手
-  image: /images/posts/doubao.png
+- name: huggingface
+  link: https://huggingface.co/
+  description: 模型仓库
+  image: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/icon/huggingface.ico
 
 - name: GFPGAN
   link: https://github.com/TencentARC/GFPGAN
-  description: 用于人脸恢复的实用算法
+  description: 人脸恢复算法
   image: https://github.com/TencentARC/GFPGAN/raw/master/assets/gfpgan_logo.png
 
 - name: synclabs
@@ -54,19 +54,41 @@
 
 - name: thefastest.ai
   link: https://thefastest.ai/
-  description: LLMs 排行榜
+  description: 提供可靠测量流行的 LLMs 性能(响应速度)
   image: /images/posts/Snipaste_2024-10-13_00-09-40.png
 
-- category: WebUI 搭建工具
+- category: 科学上网代理工具
+
+- name: V2rayN
+  link: https://v2rayn.org/
+  description: Windows V2Ray 客户端
+  image: https://v2rayn.org/wp-content/uploads/2022/06/1655215063-favicon-70x70.png
+
+- name: Clash Verge Rev
+  link: https://www.clashverge.dev/
+  description: 基于 Tauri 的 Clash Meta GUI
+  image: https://www.clashverge.dev/assets/logo.png
+
+- name: v2rayNG
+  link: https://github.com/2dust/v2rayNG
+  description: Android V2Ray 客户端
+  image: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/posts/v2rayNG.webp
+
+- name: Netch
+  link: https://github.com/netchx/netch
+  description: A simple proxy client
+  image: https://github.com/NetchX/Netch/raw/main/Netch/Resources/Netch.png?raw=true
+
+- category: 纯 python 的 WebUI 搭建工具
 
 - name: streamlit
   link: https://streamlit.io/
-  description: 纯py无需前端经验构建 Web 应用程序
+  description: 无需前端经验构建 Web 应用程序
   image: https://streamlit.io/favicon32.ico
 
 - name: Gradio
   link: https://www.gradio.app/
-  description: 纯py无需前端经验构建 Web 应用程序
+  description: 无需前端经验构建 Web 应用程序
   image: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/icon/gradio.jpg
 
 - category: stable-diffusion
@@ -78,31 +100,14 @@
 
 - name: LiblibAI-哩布哩布AI
   link: https://www.liblib.art/
-  description: LiblibAI-哩布哩布AI - 中国领先的AI创作平台
-  image: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/posts/LiblibAI-%E5%93%A9%E5%B8%83%E5%93%A9%E5%B8%83AI.png
-
-- category: 科学上网代理工具
-
-- name: V2rayN
-  link: https://v2rayn.org/
-  description: Windows下的代理软件，功能强大且支持多种代理协议
-  image: https://v2rayn.org/wp-content/uploads/2022/06/1655215063-favicon-70x70.png
-
-- name: Clash Verge Rev
-  link: https://www.clashverge.dev/
-  description: 基于 Tauri 的 Clash Meta GUI
-  image: https://www.clashverge.dev/assets/logo.png
-
-- name: Netch
-  link: https://github.com/netchx/netch
-  description: A simple proxy client
-  image: https://github.com/NetchX/Netch/raw/main/Netch/Resources/Netch.png?raw=true
+  description: 中国领先的AI创作平台
+  image: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/posts/LiblibAI-%E5%93%A9%E5%B8%83%E5%93%A9%E5%B8%83AI.pn
 
 - category: 稳定机场VPN推荐
 
 - name: cokecloud
   link: https://cokecloud.cyou/#/register?code=rVw0q35Q
-  description: 5年研发 保护您的数据安全，加速国外社交软件以及流媒体
+  description: 5年研发保护您的数据安全
   image: https://file.buyzur.com/emoji/88888.png
 
 - name: SudaCloud
