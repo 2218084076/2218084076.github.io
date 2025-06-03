@@ -15,11 +15,11 @@ base_info:
   # Blog website author name
   author: Terry
   # Author avatar, You can use local image path or image link
-  avatar: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/posts/SaveTwitter.Net_GjZULcxXUAA0j1n__gif_.gif
+  avatar: https://s3.v100.vip:37980/upload/lens_blur_64dp_AAC1F0_FILL0_wght400_GRAD0_opsz48.svg
   # Website LOGO, You can use local image path or image link
-  logo: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/posts/SaveTwitter.Net_GjZULcxXUAA0j1n__gif_.gif
+  logo: https://s3.v100.vip:37980/upload/lens_blur_64dp_AAC1F0_FILL0_wght400_GRAD0_opsz48.svg
   # Website favicon, You can use local image path or image link
-  favicon: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/posts/SaveTwitter.Net_GjZULcxXUAA0j1n__gif_.gif
+  favicon: https://s3.v100.vip:37980/upload/lens_blur_64dp_AAC1F0_FILL0_wght400_GRAD0_opsz48.svg
 #  mode: light  # Option values: light | dark
 
 
@@ -45,7 +45,7 @@ menu:
 # Docs: https://keep-docs.xpoet.cn/basis/configuration-guide/first_screen.html
 # ---------------------------------------------------------------------------------------
 first_screen:
-  enable: true  # Option values: true | false
+  enable: false  # Option values: true | false
   # First screen background image in light mode, You can use local image path or image link
   background_img: /images/bg.svg
   # First screen background image in dark mode, You can use local image path or image link
@@ -70,7 +70,7 @@ social_contact:
     github: https://github.com/2218084076
     x: https://x.com/Stuartbb25
     email: 17601306065@163.com
-    weixin: img | https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/icon/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241012173327.png
+    weixin: img | https://s3.v100.vip:37980/upload/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250326145430_2.jpg
     qq:              # QQ
     weibo:           # WeiBo
     zhihu:           # ZhiHu
