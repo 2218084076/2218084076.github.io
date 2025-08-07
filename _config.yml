@@ -103,9 +103,9 @@ base_info:
   primary_color: "#0066cc"
   title: Terry
   author: Terry
-  avatar: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/icon/logo_transparent.png
-  logo: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/icon/logo_transparent.png
-  favicon: https://terry-photography-1308467839.cos.ap-nanjing.myqcloud.com/icon/logo_transparent.png
+  avatar: https://s3.v100.vip:37980/upload/%E7%BA%BF%E6%9D%A1%E5%B0%8F%E7%8B%97%E5%8A%A8%E6%80%81%E8%A1%A8%E6%83%85%20640%20(10)_%E7%88%B1%E7%BB%99%E7%BD%91_aigei_com.gif
+  logo: https://s3.v100.vip:37980/upload/%E7%BA%BF%E6%9D%A1%E5%B0%8F%E7%8B%97%E5%8A%A8%E6%80%81%E8%A1%A8%E6%83%85%20640%20(10)_%E7%88%B1%E7%BB%99%E7%BD%91_aigei_com.gif
+  favicon: https://s3.v100.vip:37980/upload/icon_1750154679174.svg
 
 mermaid:
   enable: true
